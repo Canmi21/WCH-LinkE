@@ -1,4 +1,4 @@
-*.bin linguist-detectable=true
+*.bin linguist-language=C++
 *.html linguist-detectable=false
 *.epro linguist-detectable=true
 *.gerber linguist-detectable=true
